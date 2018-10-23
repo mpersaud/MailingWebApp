@@ -1,2 +1,2 @@
 # SimpleMailingListApp
-Mailing list web app
+Mailing list web appp
